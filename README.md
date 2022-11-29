@@ -19,5 +19,8 @@
 ### Deployment
 * GCP
 
+<br>
+<br>
+<br>
 
-[![Title](/home/anurag/MY/Love/Fruits-and-Vegitable-Detection/qrcode_www.kaggle.com.png)](https://github.com/anurag629/Fruits-and-Vegitable-Detection/blob/main/embed.html)
+[![View on kaggle](/qrcode_www.kaggle.com.png)](https://github.com/anurag629/Fruits-and-Vegitable-Detection/blob/main/embed.html)
