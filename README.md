@@ -23,4 +23,4 @@
 <br>
 <br>
 
-[![View on kaggle](/qrcode_www.kaggle.com.png)](https://github.com/anurag629/Fruits-and-Vegitable-Detection/blob/main/embed.html)
+[![View on kaggle](/qrcode_www.kaggle.com.png)](https://www.kaggle.com/code/anurag629/fruit-360-cnn-classification-transfer-learning)
