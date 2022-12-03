@@ -3,6 +3,10 @@
 ### Model Building -->
 * TensorFlow
 * Convolutional neural network
+* Transfer Neural Network
+
+### Data
+* Data from kaggle
 
 ### Backend Server -->
 * tf serving
