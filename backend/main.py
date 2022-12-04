@@ -1,11 +1,13 @@
-
-
 from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
+
 import uvicorn
+
 import numpy as np
+
 from io import BytesIO
 from PIL import Image
+
 import tensorflow as tf
 
 app = FastAPI()
@@ -22,7 +24,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL = tf.keras.models.load_model("../saved_models/1")
+MODEL = tf.keras.models.load_model("../model/models/1")
 
 CLASS_NAMES = ['Apple Braeburn', 'Apple Crimson Snow', 'Apple Golden 1', 
     'Apple Golden 2', 'Apple Golden 3', 'Apple Granny Smith', 'Apple Pink Lady',
